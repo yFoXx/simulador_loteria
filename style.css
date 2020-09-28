@@ -1,0 +1,44 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    align-items: center;
+}
+
+.entradas{
+    flex-direction: column;
+}
+
+input{
+    max-width: 2em;
+    font-size: 3em;
+}
+
+h1{
+    font-size: 5em;
+    font-family: fantasy;
+    color: #76a38e;
+}
+
+button{
+    font-size: 4em;
+    background-color: #76a38e;
+    border: 0px;
+    color: white;
+}
+
+#numSort{
+    font-size: 3em;
+    list-style: none;
+    padding: 0px;
+    border: 0px;
+}
+
+#numSorte li{
+    display: inline;
+}
+
+p{
+    font-size: 2em;
+    color: #76a38e;
+}
