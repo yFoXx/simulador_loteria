@@ -62,7 +62,6 @@ function verificarAcertos(){
 }
 
 
-
 function alert2(title, text){
 	let timerInterval
 	Swal.fire({
